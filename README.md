@@ -1,3 +1,3 @@
-# force-line-endings package
+# Force Line Endings
 
-Forces the editor to use your preferred line endings, instead of relying on your OS.
+An Atom package to force all open files to use your preferred line ending, instead of relying on the OS to choose one.
