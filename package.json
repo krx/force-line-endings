@@ -13,8 +13,5 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "line-ending-selector": "^0.5.0"
   }
 }
