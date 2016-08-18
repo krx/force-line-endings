@@ -1,7 +1,7 @@
 {
   "name": "force-line-endings",
   "main": "./lib/force-line-endings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sets and enforces a default line ending for all files",
   "keywords": [
     "line",
